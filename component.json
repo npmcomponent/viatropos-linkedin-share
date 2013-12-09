@@ -6,7 +6,8 @@
   "keywords": [],
   "author": "Lance Pollard <lancejpollard@gmail.com>",
   "dependencies": {
-    "viatropos/open-window": "*"
+    "viatropos/open-window": "*",
+    "viatropos/load-script": "*"
   },
   "development": {
     "visionmedia/mocha": "*",

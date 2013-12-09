@@ -4,6 +4,7 @@
  */
 
 var open = require('open-window');
+var load = require('load-script');
 
 /**
  * Expose `share`.
@@ -19,6 +20,8 @@ module.exports = share;
  *
  * @see https://developer.linkedin.com/documents/share-linkedin
  * @see http://developer.linkedin.com/plugins/share-plugin-generator
+ * @see http://developer.linkedin.com/documents/tags-and-templates
+ * @see https://developer.linkedin.com/documents/general-methods
  */
 
 function share(url, title, description, source) {
