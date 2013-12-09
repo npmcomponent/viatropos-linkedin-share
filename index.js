@@ -32,5 +32,7 @@ function share(url, title, description, source) {
   if (description) link += '&summary=' + encodeURIComponent(description);
   if (source) link += '&source=' + encodeURIComponent(source);
 
+  // load('http://platform.linkedin.com/in.js?async=true')
+
   return open(link);
 }
