@@ -1,0 +1,11 @@
+{
+  "name": "viatropos-linkedin-share",
+  "description": "Linkedin Share component",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "viatropos-open-window": "git://github.com/npmcomponent/viatropos-open-window.git",
+    "viatropos-load-script": "git://github.com/npmcomponent/viatropos-load-script.git"
+  },
+  "license": "MIT"
+}

@@ -3,8 +3,8 @@
  * Module dependencies.
  */
 
-var open = require('open-window');
-var load = require('load-script');
+var open = require('viatropos-open-window');
+var load = require('viatropos-load-script');
 
 /**
  * Expose `share`.
